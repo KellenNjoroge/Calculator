@@ -9,7 +9,7 @@ currently using HTML and JS
 ## Support and contact details
 If you have any problems you can always slack me @Keller @WangariGikonyo
 ### Link
-[Calculator link]
+[Calculator link](https://kellennjoroge.github.io/Calculator/)
 ### prerequisites
 * web browser
 * git
