@@ -14,7 +14,7 @@ If you have any problems you can always slack me @Keller @WangariGikonyo
 * web browser
 * git
 ### installation
-git clone
+[git clone](https://github.com/KellenNjoroge/Calculator)
 ## bugs
 cannot operate on explorer
 ### License
