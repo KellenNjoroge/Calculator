@@ -3,7 +3,7 @@
 #### By
 Kellen Njoroge and Esther Wangari
 ## Description
- Makes simle calculations
+ Makes simple calculations
 ## Technologies Used
 currently using HTML and JS
 ## Support and contact details
@@ -11,8 +11,8 @@ If you have any problems you can always slack me @Keller @WangariGikonyo
 ### Link
 [Calculator link]
 ### prerequisites
--web browser
--git
+* web browser
+* git
 ### installation
 git clone
 ## bugs
