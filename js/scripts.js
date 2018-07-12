@@ -1,8 +1,24 @@
-$(document.ready(function() {
-    $("form").submit(function(event) {
+
+
+
+
+$(document).ready(function(){
+    $("form").submit(function(event){
         event.preventDefault();
-          var numberString = $("input#input1").val();
-           var numberArray =parseInt(numberString.split(",");
-            alert(noArray[1])
-    });
+        var noString = $("input#input1").val();
+        var addition = parseInt(noString.split('+'));
+        var sum = 0;
+        var add = function(addition){
+            for (var number=0; number<=noArray.length-1;number++ ) {
+                sum += parseInt(Addition[number]);
+            }
+        }
+        console.log(sum)
+        /*
+         var sum = 0;
+         var add = noArray.map(num =>{
+            return sum += num
+           })
+           alert(sum);*/
+     });
 });
