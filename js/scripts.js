@@ -1,9 +1,8 @@
-var add = function(number1, number2) {
-return number1 + number2;
-};
-
- var number1 = parseInt(prompt("Enter a number:"));
- var number2 = parseInt(prompt("Enter another number:"));
-
- var result =add(number1, number2);
- 
+$(document.ready(function() {
+    $("form").submit(function(event) {
+        event.preventDefault();
+          var noString = $("input#input1").val();
+          nostring.split
+        
+    });
+});
